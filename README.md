@@ -7,11 +7,11 @@ Model built using fastai
 
 Kaggle competition link (data found here):
 
-   * https://www.kaggle.com/c/imet-2020-fgvc7/overview
+* https://www.kaggle.com/c/imet-2020-fgvc7/overview
 
 Data Files Used:
 
-    * train/
-    * test/
-    * train.csv
-    * labels.csv
+* train/
+* test/
+* train.csv
+* labels.csv
